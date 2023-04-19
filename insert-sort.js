@@ -27,9 +27,9 @@ class InsertSort {
 
 const isort = new InsertSort();
 
-select.insert(9);
-select.insert(5);
-select.insert(3);
+isort.insert(9);
+isort.insert(5);
+isort.insert(3);
 
 isort.display();
 isort.sort();
